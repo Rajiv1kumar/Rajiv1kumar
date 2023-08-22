@@ -1,7 +1,7 @@
-![LOGO](https://github.com/Rajivkrrao/Rajivkrrao/blob/main/wm.gif)
+![LOGO](https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/wm.gif)
 <h1 align="center">Hi 👋, I'm RAJIV KUMAR</h1>
 <h3 align="center">A passionate & Seasoned SharePoint developer from India</h3>
-<img align="right" alt="Coding" width="400" hight="100" src="https://github.com/Rajivkrrao/Rajivkrrao/blob/main/mw.gif">
+<img align="right" alt="Coding" width="400" hight="100" src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/mw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivkrrao&label=Profile%20views&color=0e75b6&style=flat" alt="rajivkrrao" /> </p>
 
