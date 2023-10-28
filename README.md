@@ -11,8 +11,7 @@
 
 - 🌱 I’m currently learning **SharePoint Frameworks [SPFx]**
 
-- 📝 I regularly write articles on [https://sharepointdevels.blogspot.com/](https://sharepointdevels.blogspot.com/)
-
+- 📝 I regularly write articles on 
 - 💬 Ask me about **SharePoint Online & Power Platform**
 
 - 📫 How to reach me **RajivKumar.spo@gmail.com**
