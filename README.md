@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivkrrao&label=Profile%20views&color=0e75b6&style=flat" alt="rajivkrrao" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rajiv1kumaar" target="blank"><img src="https://img.shields.io/twitter/follow/rajiv1kumaar?logo=twitter&style=for-the-badge" alt="rajiv1kumaar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajivrajvat" target="blank"><img src="https://img.shields.io/twitter/follow/rajivrajvat?logo=twitter&style=for-the-badge" alt="rajivrajvat" /></a> </p>
 
 - 🔭 I’m currently working on SharePoint Online **SharePoint Desingner 2013 Tools**
 
