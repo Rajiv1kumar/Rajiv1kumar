@@ -1,5 +1,5 @@
 ![LOGO](https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/spb.jpg)
-<h1 align="center">Hi 👋, I'm RAJIV KUMAR</h1>
+<h1 align="center">Hi 👋, I'm RAJIV RAJVAT</h1>
 <h3 align="center">A passionate & Seasoned SharePoint developer from India</h3>
 <img align="right" alt="Coding" width="400" hight="100" src="https://github.com/Rajiv1kumar/Rajiv1kumar/blob/main/mw.gif">
 
