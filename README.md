@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/rajivrajvat" target="blank"><img src="https://img.shields.io/twitter/follow/rajivrajvat?logo=twitter&style=for-the-badge" alt="rajivrajvat" /></a> </p>
 
-- 🔭 I’m currently working on SharePoint Online **SharePoint Desingner 2013 Tools**
+- 🔭 I’m currently working on  **SharePoint & Power Platform **
 
-- 🌱 I’m currently learning **SharePoint Frameworks [SPFx]**
+- 🌱 I'm currently expanding my knowledge of **SharePoint Frameworks [SPFx] and Coponent PowerApps Framework [CPF]**
 
-- 📝 I regularly write articles on 
-- 💬 Ask me about **SharePoint Online & Power Platform**
+- 📝 I regularly contribute articles to my blog **CorporateCodeCorner.blogspot.com**
+- 💬 Ask me about **SharePoint & Power Platform**
 
 - 📫 How to reach me **Rajvatrajiv@gmail.com**
 
